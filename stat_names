@@ -1,0 +1,16 @@
+,id,name
+0,1,yardsPerPass
+1,2,rushingYards
+2,3,netPassingYards
+3,4,totalYards
+4,5,completionAttempts
+5,6,totalPenaltiesYards
+6,7,firstDowns
+7,8,possessionTime
+8,9,yardsPerRushAttempt
+9,10,turnovers
+10,11,rushingAttempts
+11,12,fumblesLost
+12,13,interceptions
+13,14,thirdDownEff
+14,15,fourthDownEff
